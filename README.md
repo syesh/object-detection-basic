@@ -1,10 +1,25 @@
-#YOLOv8 Real-Time Detection
+# YOLOv8 Real-Time Object Detection
 
-Simple real-time object detection using YOLOv8 and OpenCV.
+Real-time object detection using YOLOv8 and OpenCV with webcam input.
 
-Setup
+---
+
+## Setup
+
+```bash
 pip install -r requirements.txt
-Run
+```
+
+---
+
+## Run
+
+```bash
 python yolo.py
-Controls
-Press Q to quit
+```
+
+---
+
+## Controls
+
+* Press **Q** to quit
